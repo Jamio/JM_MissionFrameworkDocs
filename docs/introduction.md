@@ -56,7 +56,7 @@ To start using the framework:
 3. Enable or disable systems by setting their flags to `true/false`
 4. Customize module behavior as needed (e.g., timer lengths, limits, ACE settings)
 
-> See the [Setup Guide](setup.md) for a complete walkthrough.
+> See the [Setup Guide](setup_guide.md) for a complete walkthrough.
 
 ---
 
