@@ -4,6 +4,9 @@ layout: home
 nav_order: 1
 ---
 
+<img src="/docs/assets/JamioFramework_MF.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+
+
 # Jamio's Arma 3 Mission Framework
 
 This is a mission framework for Arma 3 that is designed to be lightweight and easy to use for our group. It's a bit jank, but its honest work.
