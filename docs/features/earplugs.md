@@ -23,7 +23,7 @@ This system allows players to use earplugs to reduce loud sounds. Useful for lon
 The earplugs work on a toggleable variable. If it returns true, earplugs are classed as active and sound is reduced, and vice versa.
 
 - Actions to add/remove earplugs are added as scroll wheel actions to all players.
-- Audio volume is reduced using Arma’s `fadeSound` and 'fadeRadio' commands.
+- Audio volume is reduced using Arma’s `fadeSound` and `fadeRadio` commands.
 - The earplug status is local per player.
 
 ---
