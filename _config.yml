@@ -7,6 +7,6 @@ url: https://jamio.github.io/JM_MissionFrameworkDocs/
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-  # Color scheme supports "light" (default) and "dark"
+# Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
