@@ -10,5 +10,5 @@ aux_links:
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
-logo: "docs/assets/rallyflag.png"
+logo: "/blob/main/docs/assets/rallyflag.png"
 
