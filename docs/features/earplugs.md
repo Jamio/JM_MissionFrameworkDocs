@@ -30,7 +30,7 @@ Give a brief technical summary of how it functions in-game.
 
 ## 🛠️ Mission Maker Usage
 
-The ability for players to use earplugs can be enabled in <span style="color: orange; font-weight: bold;">JM_init.sqf</span> by toggling '<JM_Earplugs>' to true.
+The ability for players to use earplugs can be enabled in <span style="color: orange; font-weight: bold;">JM_init.sqf</span> by toggling `<JM_Earplugs>` to true.
 
 
 ---
