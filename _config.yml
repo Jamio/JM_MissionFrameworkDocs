@@ -10,3 +10,5 @@ aux_links:
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
+logo: "JamioFramework_MF.png"
+
