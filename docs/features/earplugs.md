@@ -11,7 +11,7 @@ layout: default
 
 ---
 
-## 🎯 Purpose
+## ✅ Purpose
 
 This system allows players to use earplugs to reduce loud sounds. Useful for long helicopter rides and sustained firefights.
 
