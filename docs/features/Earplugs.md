@@ -2,6 +2,7 @@
 title: Earplugs
 parent: Features
 nav_order: 1
+layout: default
 ---
 
 This feature adds an Earplugs action to all players.
