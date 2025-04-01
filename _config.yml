@@ -1,4 +1,4 @@
-title:
+title: JM Mission Framework
 description: A mission framework for the Misfits Arma 3 Group
 theme: just-the-docs
 
@@ -10,5 +10,5 @@ aux_links:
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
-logo: "/docs/assets/JamioFramework_MF.png"
+logo:
 
