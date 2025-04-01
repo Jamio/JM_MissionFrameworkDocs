@@ -4,7 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-<img src="/docs/assets/JamioFramework_MF.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/rallyflag.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+
 
 
 # Jamio's Arma 3 Mission Framework
