@@ -32,9 +32,9 @@ This page lists planned or proposed features for future versions of the framewor
 
 ## 💡 Suggestions
 
-If you have ideas or features you'd love to see in the framework, feel free to suggest them via GitHub Issues or directly contact the framework maintainer.
 
-<span style="color: limegreen;">We're always open to community input!</span>
+
+<span style="color: limegreen;">If you have ideas or features you think would work please feel free to drop them in the discord, I'm always open for feedback!</span>
 
 ---
 
