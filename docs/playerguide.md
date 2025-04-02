@@ -33,9 +33,8 @@ If you die, you may:
 - Respawn at the designated spawn zone
 - Enter spectator mode while awaiting respawn if **permadeath** is enabled
 
-> {% callout info %}
+
 > Respawn options depend on the mission — some may have **limited lives** or require team medics to revive you.
-> {% endcallout %}
 
 ---
 
