@@ -94,14 +94,17 @@ If Role Restricted Arsenal is enabled, it will automatically pull all magazines 
 
 The resupply crates will be populated using this, so it should cover everyone.
 
-{: .highlight }
+{: .info }
 There is a slight issue with the way that the Role Restricted Arsenal works with the Supply system. There is no reliable function to determine if a magazine is for secondary or primary weapons (because there is often crossover). Because of this, when using the Role Restricted Arsenal, every magazine will be treated as a <b>primary magazine</b> and secondary magazines will not be used. To account for this, you can lower the primary magazine count when creating the boxes if it bothers you. 
 
 ### HOW TO I SETUP SUPPLY CRATES BEFORE THE MISSION?
 
 To initialise some supply crates at the beginning of the mission, place the following code into the init of the object you want to use:
 
-For Ammunition Supply Crates: ```sqf [this, 50, 20, 5, 10] execVM "JM_Framework\Supply\ammoCrate.sqf"; ```
+For Ammunition Supply Crates: 
+```sqf 
+[this, 50, 20, 5, 10] execVM "JM_Framework\Supply\ammoCrate.sqf"; 
+```
 
 
 | Index        | Parameter          | Description |
@@ -112,7 +115,10 @@ For Ammunition Supply Crates: ```sqf [this, 50, 20, 5, 10] execVM "JM_Framework\
 | 3           | 5 | Number of Launcher Missiles  |
 | 4           | 10 | Number of Throwables  |
 
-For Medical Supply Crates: ```sqf [this, 50, 20, 5, 10] execVM "JM_Framework\Supply\medCrate.sqf"; ```
+For Medical Supply Crates: 
+```sqf 
+[this, 50, 20, 5, 10] execVM "JM_Framework\Supply\medCrate.sqf";
+```
 
 
 | Index        | Parameter          | Description |
