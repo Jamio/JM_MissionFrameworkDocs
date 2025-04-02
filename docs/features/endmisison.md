@@ -5,6 +5,9 @@ nav_order: 10
 layout: default
 ---
 
+{: .warning }
+This system doesn't currently have an easy way to customise. Because of this, I would avoid using it unless you have some basic knowledge of scripting, enough that you can play around with the endMission.sqf code.
+
 # Custom End Mission
 
 *Allows the the running of a custom end mission cinematic*
