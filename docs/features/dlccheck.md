@@ -45,7 +45,7 @@ The second system runs when a player joins the mission.
 
 It will gather all the gear that the player is currently using, and will check it against a pre-prepared DLC gear registry.
 
-The script will alert the player if they are using gear that requires a DLC they <b>do not own</b>
+The script will alert the player if they are using gear that requires a DLC they <b>do not own</b> and prompt them to alert the mission-maker/zeus.
 
 
 {: .warning }
