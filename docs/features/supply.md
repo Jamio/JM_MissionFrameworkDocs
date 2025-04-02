@@ -38,7 +38,7 @@ There are a couple of steps to set up depending on if you have the Role Restrict
 Role Restricted Arsenal - DISABLED
 {: .label .label-red }
 
-Use the following steps to ammo resupply contents:
+Use the following steps to setup the ammo resupply contents:
 
 Step 1: Enter the editor, build your player loadouts, make sure you are happy with them.
 
@@ -94,11 +94,15 @@ If Role Restricted Arsenal is enabled, it will automatically pull all magazines 
 
 The resupply crates will be populated using this, so it should cover everyone.
 
-### HOW TO I SETUP SUPPLY CRATES IN ADVANCE?
+{: .highlight }
+There is a slight issue with the way that the Role Restricted Arsenal works with the Supply system. There is no reliable function to determine if a magazine is for secondary or primary weapons (because there is often crossover). Because of this, when using the Role Restricted Arsenal, every magazine will be treated as a <b>primary magazine</b> and secondary magazines will not be used. To account for this, you can lower the primary magazine count when creating the boxes if it bothers you. 
+
+### HOW TO I SETUP SUPPLY CRATES BEFORE THE MISSION?
 
 To initialise some supply crates at the beginning of the mission, place the following code into the init of the object you want to use:
 
-For Ammunition Supply Crates: <[this, 50, 20, 5, 10] execVM "JM_Framework\Supply\ammoCrate.sqf";>
+For Ammunition Supply Crates: ```sqf [this, 50, 20, 5, 10] execVM "JM_Framework\Supply\ammoCrate.sqf"; ```
+
 
 | Index        | Parameter          | Description |
 |:-------------|:------------------|:------|
@@ -108,7 +112,8 @@ For Ammunition Supply Crates: <[this, 50, 20, 5, 10] execVM "JM_Framework\Supply
 | 3           | 5 | Number of Launcher Missiles  |
 | 4           | 10 | Number of Throwables  |
 
-For Medical Supply Crates: <[this, 50, 20, 5, 10] execVM "JM_Framework\Supply\medCrate.sqf";>
+For Medical Supply Crates: ```sqf [this, 50, 20, 5, 10] execVM "JM_Framework\Supply\medCrate.sqf"; ```
+
 
 | Index        | Parameter          | Description |
 |:-------------|:------------------|:------|
@@ -124,7 +129,7 @@ For Medical Supply Crates: <[this, 50, 20, 5, 10] execVM "JM_Framework\Supply\me
 | 9           | 10 | Number of Morphine Autoinjectors  |
 
 
-
+### OTHER CRATES
 
 
 
@@ -147,7 +152,7 @@ For Medical Supply Crates: <[this, 50, 20, 5, 10] execVM "JM_Framework\Supply\me
 
 ## 🧪 Notes & Tips
 
-- If you want players to have to go back and forth to replenish, try experimenting with a lower budget than usual.
-- If you add too many objects to the lists, they may become extremely cluttered. try not to go overboard with it.
+- This system is fully compatible with the Box Spawner system, as the crates spawned by that run the exact same code as the pre-initialised boxes.
+- 
 
 ---
