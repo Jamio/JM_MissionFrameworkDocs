@@ -40,6 +40,12 @@ The Fortify system can be enabled in <span style="color: orange; font-weight: bo
 
 The Framework Composition contains a prebuilt rally system with all of the objects and respective init box code.
 
+Any leaders of any team at any point during the mission are able to deploy a Platoon Rally. To designate people as Squad Leaders, use the following code in the init box of a particular unit:
+
+<code goes here for squad leader init>
+
+There can be a maximum of <b>4</b> designated Squad Leaders.
+
 There are zeus modules in the framework that allow the enabling or disabling of teleporting.
 
 
