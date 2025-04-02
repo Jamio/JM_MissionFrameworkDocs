@@ -62,9 +62,8 @@ Rally points act as **team respawn hubs** placed by squad leaders or medics.
 - If enemies get too close, the rally will **collapse**
 - Rallies often have **limited respawns or cooldowns**
 
-> {% callout tip %}
 > Stick with your team and communicate — your rally may be the only way back to the front line!
-> {% endcallout %}
+
 
 ---
 
