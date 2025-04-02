@@ -90,7 +90,7 @@ Step 6: Drag and drop your .txt file you saved earlier onto the file labelled `c
 Step 7: You will have generated a file named `DLC_Output_somethingsomething.sqf`, open it, you should see it as a giant array like so:
 
 
-<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/dlc_gear_registry.png" alt="dlc gear registry" style="height: 256px; width:1024px;"/>
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/dlc_gear_registry.png" alt="dlc gear registry" style="height: 256px; width:768px;"/>
 
 
 Step 8: Copy and paste the entirety of that file into `JM_Framework >> Misc >> DLCParser >> dlcGearRegistry.sqf` - replace anything that currently exists in there.
