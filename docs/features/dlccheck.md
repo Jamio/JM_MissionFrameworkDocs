@@ -59,7 +59,9 @@ DLC-checking is enabled by default, as it is fairly game-breaking if you turn it
 
 The two scripts mentioned above will function automatically. However, to allow them to function properly - you must use the included DLC Parser tool.
 
-### Why?
+
+
+### <u>Why?</u>
 
 Some mods use DLC models as a base. Which means, in the arsenal, they appear as mods, but actually require DLC for your players to use.
 
@@ -67,7 +69,9 @@ Therefore, to make sure that our DLC checker knows to look for modded gear that 
 
 <b>This should only need to be done ONCE per modlist, or everytime you add a mod that adds gear that requires a DLC. If you are just adding a sound mod, you don't need to create the DLC Gear Regsitry again.</b>
 
-### How to run the tool
+
+
+### <u>How to run the tool</u>
 
 This sounds complicated, but it really isn't - trust me - I've automated the whole thing.
 
