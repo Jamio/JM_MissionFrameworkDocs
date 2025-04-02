@@ -83,7 +83,16 @@ Step 5: Go to the framework and go to JM_Framework >> Misc >> DLCParser
 
 Step 6: Drag and drop your .txt file you saved earlier onto the file labelled `convert_dlc_output.bat`
 
-Step 7:
+Step 7: You will have generated a file named `DLC_Output_somethingsomething.sqf`, open it, you should see it as a giant array like so:
+
+
+<img src="/assets/img/dlc_gear_registry.png" alt="dlc gear registry" style="height: 512px; width:1024px;"/>
+
+
+Step 8: Copy and paste the entirety of that file into `JM_Framework >> Misc >> DLCParser >> dlcGearRegistry.sqf` - replace anything that currently exists in there.
+
+Step 9: That's it! You now have a functional registry of all the DLC-enabled gear currently in your game. The scripts will use this to check for DLC gear, either in the editor or when a player joins.
+
 ---
 
 ## 📦 Dependencies
@@ -96,7 +105,6 @@ Step 7:
 ## 🔁 Related Features
 
 - [Rally Point System](rally.md)
-- [Spectator Mode](spectator.md)
 
 ---
 
