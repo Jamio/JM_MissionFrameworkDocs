@@ -60,8 +60,8 @@ If neither a rally nor a safe squadmate is available:
 
 | Option            | How It Works                        | Limits / Conditions                |
 |------------------|--------------------------------------|------------------------------------|
-| Rally Point       | Teleport to active rally flag       | Enemy proximity disables it        |
-| Squadmate Jump    | Teleport to a safe friendly player  | Cooldown / once per life           |
+| Rally Point       | Teleport to active rally point       | Requires coordination with team/placement of rally points        |
+| Squadmate Teleport    | Teleport to friendly player  | No checks on nearby enemies - risky!           |
 | Pickup Request    | Sends alert to pilots or logistics  | Requires human or AI response      |
 
 
