@@ -24,6 +24,8 @@ This site mainly serves to give mission-makers the tools to quickly throw togeth
 
 As a player, you are ultimately the person who will be affected by things going wrong (or right), so please please please give feedback when you can!
 
+[Player Guide]([https://just-the-docs.com](https://jamio.github.io/JM_MissionFrameworkDocs/docs/playerguide/){: .btn .btn-purple }
+
 ---
 
 ## 🛠️ For Mission Makers
