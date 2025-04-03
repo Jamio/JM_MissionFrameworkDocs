@@ -5,7 +5,7 @@ nav_order: 5
 layout: default
 ---
 
-# DLC
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/dlc.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 As we all know, Arma 3 has a bunch of DLC both small and large. The game will, for some of the DLCs, let you join the server even if you don't own some of the DLC being used in the mission.
 
