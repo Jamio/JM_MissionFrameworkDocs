@@ -36,6 +36,11 @@ Use the `ACE Self-Interaction Menu >> Radios >> (your radio) >> Open` or press <
 
 You will be brought to a radio interface. I will show you an example using the PRC-152. The layout of your radio may look different, but the functionality will be the same, just hover over the buttons to see what they do:
 
+<div style="text-align: center;">
+  <img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/radio.png" alt="Radio" style="width: 80%; max-width: 960px; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+  <p style="font-size: 0.9rem; color: #666;"><em>The radio interface of an AN/PRC-152 Short-range radio.</em></p>
+</div>
+
 
 
 
