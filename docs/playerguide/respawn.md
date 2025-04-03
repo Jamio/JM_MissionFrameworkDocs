@@ -27,7 +27,7 @@ At the respawn area, you will find an object labelled <b>"Deployment Station"</b
 
 Depending on the mission, you may see one or more of the following redeployment methods:
 
-### 🚩 Rally Point Deployment
+### 🚩 <span style="color: orange; font-weight: bold;">Rally Point</span>
 
 If your squad or team has an active rally point:
 
@@ -36,7 +36,7 @@ If your squad or team has an active rally point:
 - Rally points are placed by designated Squad Leaders or any Team Leader
 
 
-### 🪖 Squadmate Teleport
+### 🪖 <span style="color: orange; font-weight: bold;">Squadmate Teleport</span>
 
 You may have the option to teleport directly to a living squadmate:
 
@@ -47,7 +47,7 @@ This method can be useful if your squad is scattered, but holding a safe positio
 
 
 
-### 🚁 Request Pickup
+### 🚁 <span style="color: orange; font-weight: bold;">Request Reinsert</span>
 
 If neither a rally nor a safe squadmate is available:
 
