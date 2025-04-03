@@ -51,12 +51,7 @@ The framework is structured as follows:
 
 ## 📚 Getting Started
 
-To start using the framework:
-
-1. Clone or copy the framework files into your mission folder - the only thing not provided is a mission.sqm
-2. Review the `JM_init.sqf` for available systems
-3. Enable or disable systems by setting their flags to `true/false`
-4. Customize module behavior as needed (e.g., timer lengths, limits, ACE settings)
+To start using the framework, simply download the latest release and add it to your mission folder.
 
 > See the [Setup Guide](setup_guide.md) for a complete walkthrough.
 
