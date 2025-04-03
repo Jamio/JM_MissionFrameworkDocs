@@ -12,6 +12,8 @@ Requirements:
 
 Subscribe to the mission framework composition on steam: INSERT LINK HERE!!!!
 
+---
+
 ## Downloading the Framework
 
 Step 1: Click the button below to go the framework github repo.
@@ -21,6 +23,9 @@ Step 1: Click the button below to go the framework github repo.
 Step 2: On the right hand side of the page, under releases, click on the latest release.
 
 Step 3: You will be brought to a page with notes about the latest release. At the bottom of the page, you will see a zip file. Click on it to download the framework.
+
+
+---
 
 ## Using the framework in a mission
 
@@ -45,6 +50,18 @@ Step 5: Copy and Paste the entire contents of the framework file, and paste it i
 Step 6: Open up your mission in Arma 3 again if you closed it. On the right hand tab of the Editor, go to `Groups >> Empty >> Workshop Compositions` and find the framework composition.
 
 Step 7: Drop the composition into your mission - this contains all the objects with their inits set up in advance, so less work for you. You can delete them at will if they are not needed.
+
+---
+
+## Configuration
+
+The framework is designed to be as hands-off as possible, though there will be things you want to have control over.
+
+As a mission-maker you will find all of the configurable pieces within the `JM_Framework >> JM_init.sqf` file.
+
+You may also wish to jump into the description.ext to edit things like the loading image, mission name etc.
+
+Beyond that, everything is running in the background. Check out the individual features tabs to see what they require to work.
 
 ---
 
