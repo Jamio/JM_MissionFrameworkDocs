@@ -4,4 +4,52 @@ nav_order: 2
 layout: default
 ---
 
-this will be the setup guide
+# Mission Setup
+
+This guide will give you a quick run through on how to get started using this mission framework.
+
+Requirements:
+
+Subscribe to the mission framework composition on steam: INSERT LINK HERE!!!!
+
+## Downloading the Framework
+
+Step 1: Click the button below to go the framework github repo.
+
+[JM Mission Framework Github]([https://just-the-docs.com](https://github.com/Jamio/JM_MissionFrameworkDocs)){: .btn .btn-blue }
+
+Step 2: On the right hand side of the page, under releases, click on the latest release.
+
+Step 3: You will be brought to a page with notes about the latest release. At the bottom of the page, you will see a zip file. Click on it to download the framework.
+
+## Using the framework in a mission
+
+
+Step 1: Open up Arma 3 with your modlist (CBA_A3 and ACE3 are hard requirements) and head straight to the editor.
+
+Step 2: Pick your terrain, open it, and do `File >> Save As` - save your mission with a memorable name under `MPMissions`. Use underscores instead of spaces to help readability.
+
+Step 3: Go to file explorer `My Documents >> Arma 3 / Arma 3 - Other Profiles >> MPMissions` - find your mission folder name. It will be formatted with the mission name then the internal terrain name. You should only see something named `mission.sqm` in there. This is the list of objects/units etc. you have placed in the editor.
+
+{: .info }
+Examples of a mission folder: "Operation_Overlord.Altis", "MyTestMission.juju.kalahari", "bigbootylatinas_redux.chernarus"
+
+Step 4: Keep that folder open. In a new tab, find the framework.zip you downloaded previously, and unzip it to an empty folder of your choice.
+
+It should look something like this:
+
+<img goes here>
+
+Step 5: Copy and Paste the entire contents of the framework file, and paste it into your mission folder.
+
+Step 6: Open up your mission in Arma 3 again if you closed it. On the right hand tab of the Editor, go to `Groups >> Empty >> Workshop Compositions` and find the framework composition.
+
+Step 7: Drop the composition into your mission - this contains all the objects with their inits set up in advance, so less work for you. You can delete them at will if they are not needed.
+
+---
+
+Thats it! You have a functional mission framework in your Arma 3 mission now. Be sure to click `Save` again to make sure that everything meshes properly.
+
+If you encounter any issues, be sure to open a blank mission after saving, then reopen your mission with the framework. This often helps.
+
+
