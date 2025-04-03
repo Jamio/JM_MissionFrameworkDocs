@@ -5,7 +5,7 @@ nav_order: 4
 layout: default
 ---
 
-# Personal Tools
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/personaltools.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 The framework contains some small scripts that add a few useful functions that you can use in different situations. Get yourself acquainted with them to maximise your experience!
 
