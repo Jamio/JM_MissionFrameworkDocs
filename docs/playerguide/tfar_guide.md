@@ -27,6 +27,7 @@ This section explains how radios work, what each one does, and how to use them e
 > - ~100+ Channels
 > - Examples: PRC-117F
 
+---
 
 ## Radio Setup
 
@@ -85,6 +86,7 @@ By default, you will be able to set up a single frequency on your radio to recie
 - Because you will be listening to two channels on the same radio - whilst you have your additional channel on the screen, you can change stereo settings for that channel only.
 - Cycle back to your primary channel
 
+---
 
 ## Radio Usage
 
