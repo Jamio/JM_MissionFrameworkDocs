@@ -36,7 +36,7 @@ If your squad or team has an active rally point:
 - Rally points are placed by designated Squad Leaders or any Team Leader
 
 
-### Squadmate Teleport
+### 🪖 Squadmate Teleport
 
 You may have the option to teleport directly to a living squadmate:
 
@@ -47,7 +47,7 @@ This method can be useful if your squad is scattered, but holding a safe positio
 
 
 
-### Request Pickup
+### 🚁 Request Pickup
 
 If neither a rally nor a safe squadmate is available:
 
