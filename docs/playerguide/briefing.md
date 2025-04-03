@@ -5,7 +5,7 @@ nav_order: 3
 layout: default
 ---
 
-# Briefing
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/briefing.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 The Framework contains a custom briefing setup. This is designed to allowed mission-makers to give you more information about the scope of the mission.
 
