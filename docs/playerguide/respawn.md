@@ -5,7 +5,7 @@ nav_order: 2
 layout: default
 ---
 
-# 🔁 Respawning and Reinsertion
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/respawn.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 The framework uses a centralised respawning system - meaning that you will always respawn at a fixed location - typically a FOB or Staging Area. 
 
