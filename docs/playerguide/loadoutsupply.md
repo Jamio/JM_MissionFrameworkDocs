@@ -33,12 +33,12 @@ Important things to remember with this are radios, map, compass, watch, magazine
 
 # Resupply
 
-Resupply inventory is automatically generated based on what gear you start or what gear is available to you in the role-restricted arsenal.
+Resupply inventory is automatically generated based on your starting gear, or the gear that is available to you in the role-restricted arsenal.
 
 The mission-maker will decide the size of the resupply inventory.
 
-The framework includes a resupply <p style="color:yellow;">Box Spawner</p> that can be enabled by the mission-maker. This will allow you to spawn your own crates for resupply. Resupply crates may also be given to you in limited amounts at mission start, or provided by zeus upon request/at set points in the mission.
+The framework includes a resupply <span style="color: orange; font-weight: bold;">Box Spawner</span> that can be enabled by the mission-maker. This will allow you to spawn your own crates for resupply. Resupply crates may also be given to you in limited amounts at mission start, or provided by zeus upon request/at set points in the mission.
 
-The Box Spawner<sup>⚙️</sup> can be used to spawn resupply crates, including ammo crates, medical crates, csw crates, engineering crates and custom, mission-specific crates.
+The <span style="color: orange; font-weight: bold;">Box Spawner</span><sup>⚙️</sup> can be used to spawn resupply crates, including ammo crates, medical crates, csw crates, engineering crates and custom, mission-specific crates.
 
 Because of the way that the resupply system works, it is highly recommended that you stick with your original loadout weapons, or <i>at least</i> the weapons of your squad. If you pick up an enemy rifle mid-mission, there is a good chance that you will not be able to rearm at the resupply points like everyone else.
