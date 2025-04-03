@@ -18,7 +18,7 @@ Subscribe to the mission framework composition on steam: INSERT LINK HERE!!!!
 
 Step 1: Click the button below to go the framework github repo.
 
-[JM Mission Framework Github]([https://just-the-docs.com](https://github.com/Jamio/JM_MissionFrameworkDocs)){: .btn .btn-blue }
+[JM Mission Framework Github](https://github.com/Jamio/JM_MissionFrameworkDocs){: .btn .btn-blue }
 
 Step 2: On the right hand side of the page, under releases, click on the latest release.
 
