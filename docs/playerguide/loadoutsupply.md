@@ -17,6 +17,7 @@ The mission-maker will setup your weaponry, equipment and inventory. You may be 
 
 With this method, your input is limited, but it is good practice to go through your loadout on mission start and communicate with your team as to what you've got!
 
+---
 
 ## Role-Restricted Arsenal
 
@@ -30,6 +31,7 @@ With this method, it is up to you to create your loadout in the arsenal from the
 
 Important things to remember with this are radios, map, compass, watch, magazines for your weapons!
 
+---
 
 # Resupply
 
