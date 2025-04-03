@@ -5,6 +5,7 @@ nav_order: 1
 layout: default
 ---
 
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/basics.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 ## What to expect
 
