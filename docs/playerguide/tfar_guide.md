@@ -42,14 +42,23 @@ You will be brought to a radio interface. I will show you an example using the P
 </div>
 
 > **1** - Volume control. <i>Clicking this will cycle volume in increments of 10.</i>
+
 > **2** - Current channel. <i>Displays the current channel your radio is set to.</i>
+
 > **3** -  Frequency. <i>Displays the current frequency for this channel. Frequency can be typed in here.</i>
+
 > **4** -  Clear Frequency. <i>Will clear the whatever frequency is currently loaded.</i>
+
 > **5** - Set Frequency. <i>After typing in your desired frequency, pressing this will confirm it.</i>
+
 > **6** - Next/Previous channel. <i>Cycles through all available channels.</i>
+
 > **7** - Speakers/Headphones. <i>Cycles between playing the radio to people nearby also or not.</i>
+
 > **8** - Set Additional channel. <i>Allows an additional channel to be set up.</i>
+
 > **9** - Stereo Settings. <i>Cycles through left/right or both headphone sides for playback</i>
+
 
 
 
