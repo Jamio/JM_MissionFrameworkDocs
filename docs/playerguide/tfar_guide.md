@@ -95,8 +95,11 @@ In a mission, you can ask for your squad or command channels. Set your radio up 
 When you are ready to transmit, you can do the following:
 
 > <kbd>CAPSLOCK</kbd> - Talk on your currently selected SR channel
+
 > <kbd>T</kbd> - Talk on your additional SR channel
+
 > <kbd>Ctrl</kbd> + <kbd>CAPSLOCK</kbd> - Talk on your currently selected LR channel
+
 > <kbd>Ctrl</kbd> + <kbd>T</kbd> - Talk on your additional LR channel
 
 
