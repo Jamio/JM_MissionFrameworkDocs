@@ -5,7 +5,7 @@ nav_order: 5
 layout: default
 ---
 
-<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/loadout.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/loadouts.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 The Framework contains two different methods for you to be kitted out with your gear.
 
