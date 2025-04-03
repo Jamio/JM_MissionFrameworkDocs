@@ -23,4 +23,4 @@ You are equipped with a set of virtual earplugs that will lower sound by 90% whi
 
 To use the Earplugs, use the scroll wheel and select Insert Earplugs. To remove them, follow the same instructions but select the Remove Earplugs action.
 
-Voices via TFAR/ACRE are not affected by this volume reduction.
+Voices via TFAR/ACRE are not affected by this volume reduction so you can still hear teammates properly.
