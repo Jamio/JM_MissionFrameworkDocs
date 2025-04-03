@@ -9,7 +9,8 @@ layout: default
 Welcome to **Mission Framework** player guide.  
 This page explains how the framework’s systems function during gameplay, so you know what to expect when playing a mission that uses it.
 
-No setup required — just play, learn, and adapt.
+The framework contains several features that may be turned on or off depending on the mission. For the sake of not having to repeat "this will depend on settings" after every sentence - bear that in mind for now.
+
 
 ---
 
@@ -25,16 +26,31 @@ No setup required — just play, learn, and adapt.
 
 ---
 
-## 🔁 Respawn System
 
-The framework is built around there being a singular "spawn zone" - this is where you will spawn no matter what. Your mission-maker might have this be a detailed FOB, with several options for your reinsertion into the mission, or it may just be a basic room with an option to teleport back into the fight somewhere.
+# 🔁 Respawning and Reinsertion
+
+The framework uses a centralised respawning system - meaning that you will always respawn at a fixed location - typically a FOB or Staging Area. This is designed to give maximum flexibility in options to redeploy into the fight.
+
+## Respawn Area
+
+
+
+At the respawn area, you will find an object labelled <b>"Deployment Station"</b>. This is where all of your options to get back into the fight will be displayed.
+
+## 🚩 Rally System
+
+The rally system allows your team to place down points for people to redeploy onto from the "spawn zone
 
 If you die, you may:
 - Respawn at the designated spawn zone
 - Enter spectator mode while awaiting respawn if **permadeath** is enabled
 
 
-> Respawn options depend on the mission — some may have **limited lives** or require team medics to revive you.
+### Reinsertion
+
+There are three ways in which you may be able to get back into the fight after you respawn.
+
+1. <font color="green">Rally System</font> - As part of the mission, you may be able to place rallies. Platoon Rally 
 
 ---
 
