@@ -5,6 +5,8 @@ has_children: true
 layout: default
 ---
 
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/playerguide.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+
 Welcome to the Player Guide for the JM Mission Framework.
 
 This section covers everything you need to know as a player in a mission that utilises this framework.
