@@ -7,7 +7,7 @@ layout: default
 
 <img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/briefing.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
-The Framework contains a custom briefing setup. This is designed to allowed mission-makers to give you more information about the scope of the mission.
+The Framework contains a nicely organised custom briefing setup. This is designed to allowed mission-makers to give you more information about the scope of the mission.
 
 You can access it by opening your map, and entering the briefing tab.
 
