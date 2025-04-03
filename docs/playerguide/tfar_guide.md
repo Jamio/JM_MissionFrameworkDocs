@@ -28,7 +28,7 @@ This section explains how radios work, what each one does, and how to use them e
 > - Examples: PRC-117F
 
 
-## Using Your Radios
+## Radio Setup
 
 Make sure that you have a radio equipped, either in your radio slot (SR) or as a backpack (LR).
 
@@ -58,6 +58,63 @@ You will be brought to a radio interface. I will show you an example using the P
 > **8** - Set Additional channel. <i>Allows an additional channel to be set up.</i>
 
 > **9** - Stereo Settings. <i>Cycles through left/right or both headphone sides for playback</i>
+
+To be able to speak to your teammates, you need to configure your radio to be on the same frequency as them. 
+
+We frequently use the preconfigured channels, so the frequencies are already done for you, but you can also set your own custom frequency by typing it in the display and pressing <b>set frequency</b>.
+
+Otherwise, just pick the channel that you need to be on.
+
+### Stereo Settings
+
+Stereo settings on your radio allow you to force the recieving sound into one or both of your ears. This can be very helpful if you have both a long and short-range radio. Splitting them up allows you to manage two incoming streams of chatter.
+
+### Headphones vs Speaker
+
+By clicking the Speakers/Headphones button, you can cycle between playing the radio for yourself vs broadcasting it to all nearby players in hearing range.
+
+This is really only useful for long-range radios that might be giving important information relevant to everyone. Nobody needs to be listening to your squad chat on speaker.
+
+### Additional Channels
+
+By default, you will be able to set up a single frequency on your radio to recieve and transmit from. However, if necessary, you can set up an additional frequency that you can also transmit and recieve on at the same time.
+
+- Pick your primary channel as normal.
+- Select the channel you want to recieve/transmit on additionally by using the `Prev Channel/Next Channel` buttons.
+- Press the `Set Additional Channels` button to set that channel as your additional.
+- Because you will be listening to two channels on the same radio - whilst you have your additional channel on the screen, you can change stereo settings for that channel only.
+- Cycle back to your primary channel
+
+
+## Radio Usage
+
+Once you're happy with how to configure your radio, its time to use it.
+
+In a mission, you can ask for your squad or command channels. Set your radio up as above based on what channels you are supposed to be on.
+
+When you are ready to transmit, you can do the following:
+
+> <kbd>CAPSLOCK</kbd> - Talk on your currently selected SR channel
+> <kbd>T</kbd> - Talk on your additional SR channel
+> <kbd>Ctrl</kbd> + <kbd>CAPSLOCK</kbd> - Talk on your currently selected LR channel
+> <kbd>Ctrl</kbd> + <kbd>T</kbd> - Talk on your additional LR channel
+
+
+## Vehicle Radios and Intercoms
+
+Many vehicles come equipped with LR radios. Each seat that has access to the vehicles LR radio must be configured separately.
+
+If you configure the LR radio in the pilot seat, then jump into the co-pilot seat, the radio will not be configured.
+
+You can configure the radios through ACE Interaction menu in the same way you would any other LR radio.
+
+## Intercoms
+
+Many vehicles also have an intercom feature which separates the local, non-radio chat into separate internal intercom channels. The intercom channels function just like direct speech, no broadcasting is needed, but they function like a radio, allowing you to hear your crewmates over the sounds of gunfire or loud helicopter engines etc.
+
+This means you can have an intercom for Crew, Passengers, and more.
+
+To select which channel you are speaking in, use the ACE interaction <kbd>WIN</kbd> and select `Intercom Channel`, then select your desired channel.
 
 
 
