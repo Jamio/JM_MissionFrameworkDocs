@@ -38,7 +38,7 @@ A function can be called to pull players out of permadeath, and also to toggle p
 
 The permadeath system can be enabled in <span style="color: orange; font-weight: bold;">JM_init.sqf</span> by toggling `JM_Permadeath` to true.
 
-Whether permadeath is enabled mid-mission is defined by the public variable `JM_isPermadeathEnabled`
+Whether permadeath is enabled mid-mission is defined by the public variable `JM_Permadeath`
 
 There are zeus modules in the framework that let you toggle permdeath on/off, and handle respawning.
 
