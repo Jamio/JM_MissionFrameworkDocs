@@ -28,6 +28,9 @@ Weapons that are not explicitly defined by the mission-maker will have moderate 
 Friendly weapons are excluded from this, and thus, players are encouraged to stick to their loadouts, putting emphasis on proper resupplies.
 
 
+If you find that a weapon is accidentally missing from the arsenal/loadouts mid-mission, you can call the following script as a zeus or admin, and it will add that weapon to the whitelist: `["diwako_unknownwp_addWeapon", ["weaponClassName"]] call CBA_fnc_serverEvent;`
+
+
 ---
 
 ## 🛠️ Mission Maker Usage
