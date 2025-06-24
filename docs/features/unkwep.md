@@ -28,9 +28,6 @@ Weapons that are not explicitly defined by the mission-maker will have moderate 
 Friendly weapons are excluded from this, and thus, players are encouraged to stick to their loadouts, putting emphasis on proper resupplies.
 
 
-If you find that a weapon is accidentally missing from the arsenal/loadouts mid-mission, you can call the following script as a zeus or admin, and it will add that weapon to the whitelist: `["diwako_unknownwp_addWeapon", ["weaponClassName"]] call CBA_fnc_serverEvent;`
-
-
 ---
 
 ## 🛠️ Mission Maker Usage
@@ -38,6 +35,8 @@ If you find that a weapon is accidentally missing from the arsenal/loadouts mid-
 The Unknown Weapon system can be enabled in <span style="color: orange; font-weight: bold;">JM_init.sqf</span> by toggling `JM_UnknownWep` to true.
 
 The system will automatically account for weapons in player loadouts OR weapons in the role-restricted arsenal, and exclude them from performance debuffs.
+
+If you find that a weapon is accidentally missing from the arsenal/loadouts mid-mission, you can call the following script as a zeus or admin, and it will add that weapon to the whitelist: `["diwako_unknownwp_addWeapon", ["weaponClassName"]] call CBA_fnc_serverEvent;`
 
 
 ---
