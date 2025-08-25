@@ -1,5 +1,5 @@
 ---
-title: Potential Future Updates
+title: Updates
 nav_order: 99
 layout: default
 ---
