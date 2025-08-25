@@ -11,6 +11,8 @@ V2.10
 - Added custom AI caching framework
 - Players can no longer teleport to unconscious players via rally system
 - Rally system reworked to fix duplication bug
+- DLC  checker now checks arsenal items for RRA
+- 3D Text GUI updated for resupply, arsenal etc.
 
 # 🚧 Potential Future Updates
 
