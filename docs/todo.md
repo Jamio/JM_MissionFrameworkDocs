@@ -27,6 +27,9 @@ This page lists planned or proposed features for future versions of the framewor
 
 ## 🔮 Planned Features
 
+- [ ] **Reworked Safezones**  
+  Add additional features, player invicivibility, handle vehicle weapons etc.
+
 - [ ] **Dynamic Weather System**  
   Add a weather controller that changes conditions throughout the mission based on time of day or objectives.
 
