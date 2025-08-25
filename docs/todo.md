@@ -4,6 +4,14 @@ nav_order: 99
 layout: default
 ---
 
+# Update Changelog
+
+V2.10
+- Added local object caching/delete framework
+- Added custom AI caching framework
+- Players can no longer teleport to unconscious players via rally system
+- Rally system reworked to fix duplication bug
+
 # 🚧 Potential Future Updates
 
 This page lists planned or proposed features for future versions of the framework. These updates may be in early planning, development, or simply wishlist ideas.
@@ -14,9 +22,6 @@ This page lists planned or proposed features for future versions of the framewor
 
 - Role Restricted Arsenal
   - No distinction between primary and secondary mags for resupply system
-  - 
-- Unconscious Spectator
-  - Medic callout still plays when teammates nearby
 
 ---
 
