@@ -5,7 +5,7 @@ nav_order: 15
 layout: default
 ---
 
-# Unknown Weapons
+# Layer and Object Caching
 
 *Adds a system to manage caching, loading and deleting of local objects to help performance.*
 
