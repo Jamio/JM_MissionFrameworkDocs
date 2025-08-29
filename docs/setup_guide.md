@@ -10,7 +10,7 @@ This guide will give you a quick run through on how to get started using this mi
 
 Requirements:
 
-Subscribe to the mission framework composition on steam: INSERT LINK HERE!!!!
+<strong>Subscribe to the [Mission Framework Composition](https://steamcommunity.com/sharedfiles/filedetails/?id=3479938992) on Steam</strong>
 
 ---
 
@@ -59,7 +59,7 @@ The framework is designed to be as hands-off as possible, though there will be t
 
 As a mission-maker you will find all of the configurable pieces within the `JM_Framework >> JM_init.sqf` file.
 
-You may also wish to jump into the description.ext to edit things like the loading image, mission name etc.
+You may also wish to jump into the <strong>description.ext</strong> to edit things like the loading image, mission name etc.
 
 Beyond that, everything is running in the background. Check out the individual features tabs to see what they require to work.
 
