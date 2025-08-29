@@ -34,7 +34,7 @@ The Layer/Object Caching system is enabled by default and runs in the background
 
 The intended use for this is to group your objects into defined 3DEN layers. Then, select all the objects within a layer and add this to their init: `this setVariable ["JM_layer", "Cleanup2"];` - where "Cleanup2" is the unique name that we will be using to refer to this group of objects.
 
-Then, we can use this "tag" in a function that is called from something like a trigger : `["Cleanup2"] remoteExecCall ["JM_Perf_fnc_delCachedLayer", 0];`
+Then, we can use this "tag" in a function that is called from something like a trigger : `["Cleanup2"] remoteExecCall ["JM_Perf_fnc_delCachedLayer", 0];` (I've used this frequently with a trigger set to BLUFOR/Present/Server Only with the above code in On Activation - this will delete all tagged objects when BLUFOR players enter the trigger area).
 
 `JM_Perf_fnc_delCachedLayer` will iterate through all objects that have been tagged as Cleanup2 and delete them, on ALL clients even if the objects are local only.
 
