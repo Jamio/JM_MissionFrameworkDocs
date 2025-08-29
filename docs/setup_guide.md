@@ -16,13 +16,13 @@ Subscribe to the mission framework composition on steam: INSERT LINK HERE!!!!
 
 ## Downloading the Framework
 
-Step 1: Click the button below to go the framework github repo.
+<strong>Step 1:</strong> Click the button below to go the framework github repo.
 
 [JM Mission Framework Github](https://github.com/Jamio/JM_MissionFramework){: .btn .btn-blue }
 
-Step 2: On the right hand side of the page, under releases, click on the latest release.
+<strong>Step 2:</strong> On the right hand side of the page, under releases, click on the latest release.
 
-Step 3: You will be brought to a page with notes about the latest release. At the bottom of the page, you will see a zip file. Click on it to download the framework.
+<strong>Step 3:</strong> You will be brought to a page with notes about the latest release. At the bottom of the page, you will see a zip file. Click on it to download the framework.
 
 
 ---
