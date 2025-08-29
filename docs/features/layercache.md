@@ -21,8 +21,7 @@ This is useful for missions with lots of local-only props and objects.
 
 ## ⚙️ How It Works
 
-Usually, local objects are just that - local to the players machine. This means that deleting them via script or zeus will not remove them from the player. In large scenarios with thousands of objects,
-even local-only objects can have an effect on performance.
+Usually, local objects are just that - local to the players machine. This means that deleting them via script or zeus will not remove them from the player. In large scenarios with thousands of objects, even local-only objects can have an effect on performance.
 
 This system uses variables to "tag" items within layers, which can then be used to delete layers containing local objects, and free up resources once your players no longer nearby.
 
@@ -31,12 +30,13 @@ This system uses variables to "tag" items within layers, which can then be used 
 
 ## 🛠️ Mission Maker Usage
 
-The Unknown Weapon system can be enabled in <span style="color: orange; font-weight: bold;">JM_init.sqf</span> by toggling `JM_UnknownWep` to true.
+The Layer/Object Caching system is enabled by default and runs in the background of the mission when called.
 
-The system will automatically account for weapons in player loadouts OR weapons in the role-restricted arsenal, and exclude them from performance debuffs.
+The intended use for this is to group your objects into defined 3DEN layers. Then, select all the objects within a layer and add this to their init: `this setVariable ["JM_layer", "Cleanup2"];` - where "Cleanup2" is the unique name that we will be using to refer to this group of objects.
 
-If you find that a weapon is accidentally missing from the arsenal/loadouts mid-mission, you can call the following script as a zeus or admin, and it will add that weapon to the whitelist: `["diwako_unknownwp_addWeapon", ["weaponClassName"]] call CBA_fnc_serverEvent;`
+Then, we can use this "tag" in a function that is called from something like a trigger : `["Cleanup2"] remoteExecCall ["JM_Perf_fnc_delCachedLayer", 0];`
 
+`JM_Perf_fnc_delCachedLayer` will iterate through all objects that have been tagged as Cleanup2 and delete them, on ALL clients even if the objects are local only.
 
 ---
 
@@ -55,6 +55,6 @@ If you find that a weapon is accidentally missing from the arsenal/loadouts mid-
 
 ## 🧪 Notes & Tips
 
-- With the role-restricted arsenal enabled - even weapons your players start with will NOT be excluded, so if you are going to use that system - just keep all the weapons as part of the arsenal, and spawn your players empty-handed.
+- 
 
 ---
