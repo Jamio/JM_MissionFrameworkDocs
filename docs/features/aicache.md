@@ -39,7 +39,7 @@ There are also two configurable variables for the distance at which the AI shoul
 
 The system will handle the caching automatically upon mission start.
 
-If you find that a weapon is accidentally missing from the arsenal/loadouts mid-mission, you can call the following script as a zeus or admin, and it will add that weapon to the whitelist: `["diwako_unknownwp_addWeapon", ["weaponClassName"]] call CBA_fnc_serverEvent;`
+I would recommend using this system if you plan on having lots of groups of AI pre-placed for your mission, as performance will be greatly improved. However, if you plan on placing the majority of your units via Zeus, then you may be better off disabling this sytem and using the default Dynamic Simulation instead. One benefit that the framework AI caching has over dynamic simulation however, is that not only will the units be unsimulated at mission start - they are also hidden from view, meaning that your players wont be able to scout/engage units that are miles away by accident.
 
 
 ---
