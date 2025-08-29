@@ -30,26 +30,26 @@ Subscribe to the mission framework composition on steam: INSERT LINK HERE!!!!
 ## Using the framework in a mission
 
 
-Step 1: Open up Arma 3 with your modlist (CBA_A3 and ACE3 are hard requirements) and head straight to the editor.
+<strong>Step 1:</strong> Open up Arma 3 with your modlist (CBA_A3 and ACE3 are hard requirements) and head straight to the editor.
 
-Step 2: Pick your terrain, open it, and do `File >> Save As` - save your mission with a memorable name under `MPMissions`. Use underscores instead of spaces to help readability.
+<strong>Step 2:</strong> Pick your terrain, open it, and do `File >> Save As` - save your mission with a memorable name under `MPMissions`. Use underscores instead of spaces to help readability.
 
-Step 3: Go to file explorer `My Documents >> Arma 3 / Arma 3 - Other Profiles >> MPMissions` - find your mission folder name. It will be formatted with the mission name then the internal terrain name. You should only see something named `mission.sqm` in there. This is the list of objects/units etc. you have placed in the editor.
+<strong>Step 3:</strong> Go to file explorer `My Documents >> Arma 3 / Arma 3 - Other Profiles >> MPMissions` - find your mission folder name. It will be formatted with the mission name then the internal terrain name. You should only see something named `mission.sqm` in there. This is the list of objects/units etc. you have placed in the editor.
 
 {: .info }
 Examples of a mission folder: "Operation_Overlord.Altis", "MyTestMission.juju.kalahari", "bigbootylatinas_redux.chernarus"
 
-Step 4: Keep that folder open. In a new tab, find the framework.zip you downloaded previously, and unzip it to an empty folder of your choice.
+<strong>Step 4:</strong> Keep that folder open. In a new tab, find the framework.zip you downloaded previously, and unzip it to an empty folder of your choice.
 
 It should look something like this:
 
 <img goes here>
 
-Step 5: Copy and Paste the entire contents of the framework file, and paste it into your mission folder.
+<strong>Step 5:</strong> Copy and Paste the entire contents of the framework file, and paste it into your mission folder.
 
-Step 6: Open up your mission in Arma 3 again if you closed it. On the right hand tab of the Editor, go to `Groups >> Empty >> Workshop Compositions` and find the framework composition.
+<strong>Step 6:</strong> Open up your mission in Arma 3 again if you closed it. On the right hand tab of the Editor, go to `Groups >> Empty >> Workshop Compositions` and find the framework composition.
 
-Step 7: Drop the composition into your mission - this contains all the objects with their inits set up in advance, so less work for you. You can delete them at will if they are not needed.
+<strong>Step 7:</strong> Drop the composition into your mission - this contains all the objects with their inits set up in advance, so less work for you. You can delete them at will if they are not needed.
 
 ---
 
