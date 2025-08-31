@@ -41,7 +41,7 @@ The colour of the parts on the figurine also give you a quick idea of their stat
 
 <ul>
   <li><strong>White</strong>: No wounds, bandaged or otherwise are present.</li>
-  <li><font color="blue">Blue</font>: Wounds are bandaged or bruises are present.</li>
-  <li><font color="yellow">Yellow</font> to <font color="red">Red</font>: Wounds are open, increasing in severity from yellow to red.</li>
+  <li><strong><font color="#82E1FF">Blue</font></strong>: Wounds are bandaged or bruises are present.</li>
+  <li><strong><font color="yellow">Yellow</font></strong> to <strong><font color="red">Red</font></strong>: Wounds are open, increasing in severity from yellow to red.</li>
 </ul>
 
