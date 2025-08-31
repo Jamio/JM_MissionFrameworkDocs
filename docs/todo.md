@@ -15,6 +15,7 @@ V2.10
 - UPDATED DLC Checker - System now checks restricted arsenal item list
 - UPDATED Misc - 3D Text GUI updated for resupply, arsenal etc.
 - UPDATED Rally - Deploy actions are now side-agnostic
+- REMOVED Unconscious Spectator - Removed unused medic callout sounds
 
 # 🚧 Potential Future Updates
 
