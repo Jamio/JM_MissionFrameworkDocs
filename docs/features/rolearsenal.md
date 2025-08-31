@@ -49,6 +49,10 @@ Any items under the role name "General" will be a common item that every role wi
 
 To give a player a specific role - place this code in the init of that unit via the editor: `this setVariable ["JM_role", "Medic"];` - replacing "Medic" with your role name (must be an exact match).
 
+### Wildcards
+
+The system has a setup that is designed to allow you to add several variations of an item at once by using wildcards. For example, if you had several balaclavas that you wanted to add named like `G_Balaclava_Olive, G_Balaclava Black, G_Balaclava_Brown` then you can use `G_Balaclava_*` to add all three variants without typing them out manually.
+
 ---
 
 ## 📦 Dependencies
