@@ -30,14 +30,14 @@ This guide will walk you through exactly what to do to treat an injured teammate
 In our system, items are simplified, so there's no worrying about wound types or advanced triage. Here's what each one does:
 
 <ul>
-  <li><strong><font color="#82FF9F">Bandages</font></strong>Used to treat ANY wounds. Will prevent further bleeding.</li>
-  <li><strong><font color="#82FF9F">Tourniquet(CAT)</font></strong>Instantly stops all bleeding on a limb. Prolonged use causes pain.</li>
-  <li><strong><font color="#82FF9F">Morphine</font></strong>Greatly reduces pain and reduces BP.</li>
-  <li><strong><font color="#82FF9F">Painkillers</font></strong>Moderately reduces pain. Has no effect on BP.</li>
-  <li><strong><font color="#82FF9F">Epinephrine</font></strong>"Wake Up Drug" - revives unconscious but stable patients.</li>
-  <li><strong><font color="#82FF9F">Blood IV</font></strong>Replenishes lost blood volume over time. Comes in 250mL, 500mL and 1000mL variants. Saline has an identical function.<strong><font color="red">Only usable by Medics.</font></strong></li>
-  <li><strong><font color="#82FF9F">Splint</font></strong>Used to treat fractures. Will restore mobility upon use.</li>
-  <li><strong><font color="#82FF9F">Personal Aid Kit</font></strong>Restores a stable casualty to full health, and removes all negative effects. <strong><font color="red">Only usable by Medics.</font></strong></li>
+  <li><strong><font color="#82FF9F">Bandages</font></strong> - Used to treat ANY wounds. Will prevent further bleeding.</li>
+  <li><strong><font color="#82FF9F">Tourniquet(CAT)</font></strong> - Instantly stops all bleeding on a limb. Prolonged use causes pain.</li>
+  <li><strong><font color="#82FF9F">Morphine</font></strong> - Greatly reduces pain and reduces BP.</li>
+  <li><strong><font color="#82FF9F">Painkillers</font></strong> - Moderately reduces pain. Has no effect on BP.</li>
+  <li><strong><font color="#82FF9F">Epinephrine</font></strong> - "Wake Up Drug" - revives unconscious but stable patients.</li>
+  <li><strong><font color="#82FF9F">Blood IV</font></strong> - Replenishes lost blood volume over time. Comes in 250mL, 500mL and 1000mL variants. Saline has an identical function. <strong><font color="red">Only usable by Medics.</font></strong></li>
+  <li><strong><font color="#82FF9F">Splint</font></strong> - Used to treat fractures. Will restore mobility upon use.</li>
+  <li><strong><font color="#82FF9F">Personal Aid Kit</font></strong> - Restores a stable casualty to full health, and removes all negative effects. <strong><font color="red">Only usable by Medics.</font></strong></li>
 </ul>
 
 ---
