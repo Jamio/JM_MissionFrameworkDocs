@@ -22,6 +22,9 @@ Unlike the advanced options, our setup is designed to be quick and straightforwa
 
 This guide will walk you through exactly what to do to treat an injured teammate, the function of each medical item, and how to navigate the ACE Medical Menu. By the end, you'll be able to confidently patch up your squadmates and keep the fight going.
 
+
+---
+
 ## Medical Items
 
 In our system, items are simplified, so there's no worrying about wound types or advanced triage. Here's what each one does:
@@ -37,6 +40,7 @@ In our system, items are simplified, so there's no worrying about wound types or
   <li><strong><font color="#82FF9F">Personal Aid Kit</font></strong>Restores a stable casualty to full health, and removes all negative effects. <strong><font color="red">Only usable by Medics.</font></strong></li>
 </ul>
 
+---
 
 ## The Medical Menu
 
@@ -123,7 +127,7 @@ Picking between which option you need is something you'll learn by playing.
 
 Finally, this switch works fairly simply. Clicking it will toggle between the medical menu for yourself and whoever you're looking at within range.
 
-
+---
 
 ## Treatment Procedure
 
@@ -149,6 +153,8 @@ Here is a rough flow of actions you can take to treat a casualty:
   <li><strong>Get To A Medic</strong> - If we assume the patient is no longer bleeding, your next focus should be getting them to a medic, who can give blood enough to allow them to wake up via Epinephrine.</li>
 </ol>
 
+
+
 ### Epinephrine or Not Epinpehrine?
 
 Whether or not you should give someone Epinephrine to wake up depends on the amount of blood they have lost.
@@ -156,6 +162,7 @@ Whether or not you should give someone Epinephrine to wake up depends on the amo
 If the patient has only Lost Some Blood, you are OK to administer Epinephrine.
 
 If the patient has Lots A Lot of Blood or more, do not administer Epinephrine - they will not wake up from it.
+
 
 
 ### Why has someone fallen unconscious?
