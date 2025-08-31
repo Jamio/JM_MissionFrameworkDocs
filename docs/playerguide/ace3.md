@@ -5,7 +5,7 @@ nav_order: 7
 layout: default
 ---
 
-<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/vehicles.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+<img src="https://jamio.github.io/JM_MissionFrameworkDocs/docs/assets/ace3.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 
 ACE is a staple of 99% of our missions.
 
@@ -27,18 +27,42 @@ A lot of vanilla interactions are replaced by ACE, so if youre having issues wit
 Because of how close the default medical menu keybind ("H") is to the grenade throw keybind ("G") - there is a high probability of you sausage-fingering the grenade button,
 and killing everyone around you. A quick fix is to rebind the grenade throw:
 
-In-game, go to ```Options >> Controls >> Weapons``` then edit ```Throw``` and set it to 2x "G" presses. Press OK to save your changes.
+In-game, go to `Options >> Controls >> Weapons` then edit `Throw` and set it to 2x "G" presses. Press OK to save your changes.
 
 ## Static Interaction Menus
 
-Unless told otherwise, vehicles are free to use by any role on the team, though usually its good practice to try and designate crewmen/pilots individually and give them priority.
+By default, the ACE Interaction Menu is radial and can move around on screen. This can be really annoying when you're trying to pick a specific option. To help this, we can make tha ACE menu into static lists that are much easier to browse.
+
+In-game, go to `Options >> Addon Options >> ACE Interaction Menu` and enable `Always Display Cursor` and `Display Interaction Menus as Lists`.
+
+Much of this is personal preference at the end of the day, but these are settings that I would definitely recommend changing.
 
 
+## ACE Pointing
 
-## Garage
+The default game has a keybind to "Ping" like in HLL that will appear for everyone on your team. On the server, this is disabled by default as its messy and not very realistic.
 
-The framework contains a Garage system that may be enabled by your mission-maker:
+To replace it, we can use ACEs pointing system:
 
-- The Garage is where you can spawn in fresh vehicles
-- The vehicles can be infinitely spawnable, or have spawn limits put on them by the mission-maker
-- Once spawned, a vehicle cannot be placed back in the Garage, so think wisely!
+In-game go to `Options >> Controls >> Configure Addons >> ACE Common` and assign the `Action "point finger at"` to ("Shift + T").
+
+Then, in-game when you press Shift + T, your character will point towards an area, which will be marked on-screen for all nearby players.
+
+
+## ACE View Distance Limiter
+
+<strong>This setting is redundant if we are using a separate view distance mod, which is likely the case</strong>
+
+ACE also has a view distance setting panel that allows you to set variable view distances depending on whether you're on foot, in a ground vehicle or an aircraft.
+
+To configure this for yourself, go to `Options >> Configure >> Configure Addons >> Client >> ACE View Distance Limiter` and set your preferred view distances.
+
+
+## ACE Volume
+
+Whilst you can still control your games default volume through the audio options, the game can sometimes still be extremely loud. This is particularly true for the transition from vehicles to infantry and vice versa.
+
+ACE has a setting that lets you lower the volume in vehicles.
+
+You can configure this in ``Options >> Configure >> Configure Addons >> Client >> ACE Volume`
+
