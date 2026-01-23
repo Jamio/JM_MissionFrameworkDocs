@@ -38,6 +38,27 @@ This page lists planned or proposed features for future versions of the framewor
 - [ ] **Dynamic Weather System**  
   Add a weather controller that changes conditions throughout the mission based on time of day or objectives.
 
+- [ ] **JTAC System**  
+  Add a customisable JTAC system that lets assigned players call in fire support. Configurable by the mission-maker.
+
+- [ ] **CBRN**  
+  Add a generic CBRN system with zones, protected gear etc.
+
+- [ ] **Axe**  
+  Add an axe system that lets players remove trees and foliage - useful for FOB building, fortifications etc.
+
+- [ ] **Minefields**  
+  Easy droppable, customisable minefields system, configurable by the mission-maker.
+
+- [ ] **Interrogation System**  
+  Add a robust interrogation system that allows for players to interrogate specific characters with a chance of revealing intel. Configurable.
+
+- [ ] **JTAC System**  
+  Add a customisable JTAC system that lets assigned players call in fire support. Configurable by the mission-maker.
+
+- [ ] ***Bodybag/Ticket System**  
+  Add a ticket-based respawn system that replenishes tickets on return of bodybags to HQ.
+
 - [ ] **Mission Analytics Export**  
   Automatically generate a mission-end report with player stats and outcomes.
 
