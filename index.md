@@ -39,4 +39,4 @@ This is a mission framework for Arma 3 that is designed to be lightweight and ea
 ---
 
 <i>Credits for scripts used in this framework:
-NemesisRE, POLPOX, UNIT_normal, ACE3 Team, killzonekid, diwako</i>
+NemesisRE, POLPOX, UNIT_normal, ACE3 Team, killzonekid, diwako, DreadPirateAU, Brians200</i>
