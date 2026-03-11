@@ -6,6 +6,14 @@ layout: default
 
 # Update Changelog
 
+V2.30
+- ADDED JEBUS - Editor-based spawning script for dynamic patrols and attacks
+- ADDED JTAC System - Simple fire support and CAS menus for players
+- ADDED TICKETSMEDEVAC System - A simple system that allows ticket-based respawning that can be replenished via bodybagged players
+- FIXED Misc - 3D text for things like arsenal and supply should now function even when placed over water (such as on a carrier).
+- UPDATED ACE Unconscious - Tweaked the 3D marker for uncon players to be simpler, clearer and less harsh on the eyes.
+- UPDATED Fortify - Buildables crate should now be ACE loadable to make transporting it easier and less cumbersome.
+
 V2.10
 - ADDED Caching - Object & AI Caching added to the framework
 - ADDED Rally - New Zeus module for assigning/unassigning leadership roles on the fly
@@ -33,7 +41,7 @@ This page lists planned or proposed features for future versions of the framewor
 ## 🔮 Planned Features
 
 - [ ] **Reworked Safezones**  
-  Add additional features, player invicivibility, handle vehicle weapons etc.
+  Add additional features, player invicibility, handle vehicle weapons etc.
 
 - [ ] **Dynamic Weather System**  
   Add a weather controller that changes conditions throughout the mission based on time of day or objectives.
