@@ -34,6 +34,9 @@ This is a mission framework for Arma 3 that is designed to be lightweight and ea
 *  Custom Resupply System
 *  Vehicle Servicing
 *  Vehicle Appearance Manager
+*  Tickets Medevac System
+*  Custom JTAC/Fire Support Menu
+*  Custom AI Spawning/Caching
 *  Custom Zeus Modules
 
 ---
