@@ -8,8 +8,9 @@ layout: default
 
 V2.30
 - ADDED JEBUS - Editor-based spawning script for dynamic patrols and attacks
-- ADDED JTAC System - Simple fire support and CAS menus for players
-- ADDED TICKETSMEDEVAC System - A simple system that allows ticket-based respawning that can be replenished via bodybagged players
+- ADDED JTAC System - Simple fire support and CAS menus for players, comes with a zeus module for assigning role on the fly
+- ADDED TICKETSMEDEVAC System - A simple system that allows ticket-based respawning that can be replenished via bodybagged players, comes with a zeus module for adding tickets manually
+- ADDED FLYOVER - A customisable module for cinematic air vehicle flyovers. Pretty cool if you ask me.
 - FIXED Misc - 3D text for things like arsenal and supply should now function even when placed over water (such as on a carrier).
 - UPDATED ACE Unconscious - Tweaked the 3D marker for uncon players to be simpler, clearer and less harsh on the eyes.
 - UPDATED Fortify - Buildables crate should now be ACE loadable to make transporting it easier and less cumbersome.
