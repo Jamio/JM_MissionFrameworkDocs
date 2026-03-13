@@ -46,6 +46,8 @@ Things like dispersion, number of rounds, delay and time between rounds can usua
 
 Each fire mission has its own number of uses (capacity) and a cooldown. Set these to prevent players from spamming certain fire supports, and get them to think about when and how to use them effectively.
 
+To give a player the ability to access the JTAC menu, either use `this setVariable ["JM_isJTAC", true];` in the units init, or toggle the variable using the built-in zeus module.
+
 ---
 
 ## 📦 Dependencies
