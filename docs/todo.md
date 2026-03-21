@@ -11,9 +11,13 @@ V2.30
 - ADDED JTAC System - Simple fire support and CAS menus for players, comes with a zeus module for assigning role on the fly
 - ADDED TICKETSMEDEVAC System - A simple system that allows ticket-based respawning that can be replenished via bodybagged players, comes with a zeus module for adding tickets manually
 - ADDED FLYOVER - A customisable module for cinematic air vehicle flyovers. Pretty cool if you ask me.
+- ADDED HIDEUI - A simple system for hiding UI for pretty screenshots.
+- ADDED CBRN - Added a customisable, arcade-style CBRN system along with ui, functions and configurable settings.
 - FIXED Misc - 3D text for things like arsenal and supply should now function even when placed over water (such as on a carrier).
+- FIXED Misc - Some debug text was broken/incorrect, these have been updated or removed.
 - UPDATED ACE Unconscious - Tweaked the 3D marker for uncon players to be simpler, clearer and less harsh on the eyes.
 - UPDATED Fortify - Buildables crate should now be ACE loadable to make transporting it easier and less cumbersome.
+- UPDATED Supply - Medical supply crate should now be the big ace default one, just for clarity. I cannot be bothered trying to make things ace-agnostic, so yolo.
 
 V2.10
 - ADDED Caching - Object & AI Caching added to the framework
