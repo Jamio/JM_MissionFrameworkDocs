@@ -47,7 +47,6 @@ There is no requirement for the mission maker to enable this system, or configur
 
 ## 🧪 Notes & Tips
 
-- The system assumes that players will always respawn on the "respawn_west" (or equivalent) spawn point. This is where you can place your interactable objects. The base can be an entire FOB, or a 2x2 room if players aren't supposed to explore anywhere.
-- Teleporting straight to a squadmate is very powerful. It is obviously very fast, but the trade-off is that you are thrown into the action, with all the consequences good and bad.
+
 
 ---
