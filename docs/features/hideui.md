@@ -7,7 +7,7 @@ layout: default
 
 # UI Hider
 
-*Adds a rally point system that allows players to teleport to and from squad-level and platoon-level rally points*
+*Adds a simple action to toggle hiding UI elements*
 
 ---
 
